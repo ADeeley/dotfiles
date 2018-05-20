@@ -1,0 +1,14 @@
+{
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.tabCompletion": true,
+    "editor.insertSpaces": false,
+    "editor.fontFamily": "Inconsolata, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 15
+}
