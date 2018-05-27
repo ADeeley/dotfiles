@@ -10,5 +10,6 @@
     "editor.tabCompletion": true,
     "editor.insertSpaces": false,
     "editor.fontFamily": "Inconsolata, Consolas, 'Courier New', monospace",
-    "editor.fontSize": 15
+    "editor.fontSize": 15,
+    "editor.snippetSuggestions": "top"
 }
