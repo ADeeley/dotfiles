@@ -1,6 +1,5 @@
 {
     "window.zoomLevel": 0,
-    "explorer.confirmDragAndDrop": false,
     "editor.minimap.enabled": false,
     "editor.quickSuggestions": {
         "other": true,
@@ -8,8 +7,34 @@
         "strings": false
     },
     "editor.tabCompletion": true,
-    "editor.insertSpaces": false,
+	"editor.insertSpaces": false,
     "editor.fontFamily": "Inconsolata, Consolas, 'Courier New', monospace",
     "editor.fontSize": 15,
-    "editor.snippetSuggestions": "top"
+    "terminal.integrated.shell.osx": "bash",
+    "eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"vue"
+    ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+
+    "[html]": {
+        "editor.formatOnPaste": false,
+        "editor.formatOnType": false
+    },
+    "[twig]": {
+        "editor.formatOnPaste": false,
+        "editor.formatOnType": false
+	},
+	"[yaml]": {
+		"editor.detectIndentation": true,
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2,
+	},
+    "editor.autoIndent": false,
+	"editor.detectIndentation": false,
+	"editor.renderWhitespace": "all",
+	"files.trimTrailingWhitespace": true,
+	"workbench.editor.showTabs": false,
 }
